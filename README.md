@@ -21,11 +21,7 @@ This project is a machine learning-based career recommendation system focused on
 🧠 Technologies Used
 - Google Colab
 - Python
-- Scikit-learnyes
-- 
-
-🚀 How to Run
-👉 [Open in Colab](https://colab.research.google.com/github/mahitha29v/dalias7/blob/main/career_suggestion_model.ipynb)
+- Scikit-learn
 
 📌 Notes
 
