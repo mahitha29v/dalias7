@@ -29,6 +29,8 @@ This project is a machine learning-based career recommendation system focused on
 - All model training and evaluation were done inside Colab for ease of access
 - No local setup required—just open and run in your browser
 
+ 👍 Accuracy : 82.4074074074074
+
  🙋‍♀️ Author
 
 Created by [mahitha29v](https://github.com/mahitha29v) as a personal project to explore machine learning and career guidance in the tech domain.
